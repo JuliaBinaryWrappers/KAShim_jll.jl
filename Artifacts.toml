@@ -1,0 +1,113 @@
+[[KAShim]]
+arch = "aarch64"
+git-tree-sha1 = "d366542ed7fc574a45dd874a38250a73372dbd41"
+libc = "musl"
+os = "linux"
+
+    [[KAShim.download]]
+    sha256 = "ea17c05dfa59402b389a9c74298505f3b75bd707143247ce120c09407005db37"
+    url = "https://github.com/JuliaBinaryWrappers/KAShim_jll.jl/releases/download/KAShim-v0.1.0+0/KAShim.v0.1.0.aarch64-linux-musl.tar.gz"
+[[KAShim]]
+arch = "i686"
+git-tree-sha1 = "a0165d52f508c8500bd8935cbf35347c6c8bba5a"
+os = "windows"
+
+    [[KAShim.download]]
+    sha256 = "334e6f5c08eb90a450b6a001fcc424f3ae49e89434a4137e8276877719f9a9d1"
+    url = "https://github.com/JuliaBinaryWrappers/KAShim_jll.jl/releases/download/KAShim-v0.1.0+0/KAShim.v0.1.0.i686-w64-mingw32.tar.gz"
+[[KAShim]]
+arch = "x86_64"
+git-tree-sha1 = "d90c7c3ecb459c94a0a56f690ee70079946ea963"
+libc = "musl"
+os = "linux"
+
+    [[KAShim.download]]
+    sha256 = "4aa819ebff4e7e550ae55d45b380fc46cc1c727c787d0ca3295986fb3968b451"
+    url = "https://github.com/JuliaBinaryWrappers/KAShim_jll.jl/releases/download/KAShim-v0.1.0+0/KAShim.v0.1.0.x86_64-linux-musl.tar.gz"
+[[KAShim]]
+arch = "i686"
+git-tree-sha1 = "61980448b1f38faccba70abc8c73ace95ccebead"
+libc = "glibc"
+os = "linux"
+
+    [[KAShim.download]]
+    sha256 = "c6c03ed36037de068d9649dde2b3a96d4bf12134ba4e26ae90101228a428b5c3"
+    url = "https://github.com/JuliaBinaryWrappers/KAShim_jll.jl/releases/download/KAShim-v0.1.0+0/KAShim.v0.1.0.i686-linux-gnu.tar.gz"
+[[KAShim]]
+arch = "armv7l"
+git-tree-sha1 = "f3f9df62dd07b4081a59db1eb25337778d600852"
+libc = "glibc"
+os = "linux"
+
+    [[KAShim.download]]
+    sha256 = "82fa1f920c6d3b222b38d8d0fc75b9ccde9ee07155edeca78995ea6940690658"
+    url = "https://github.com/JuliaBinaryWrappers/KAShim_jll.jl/releases/download/KAShim-v0.1.0+0/KAShim.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[KAShim]]
+arch = "aarch64"
+git-tree-sha1 = "65f7cd56e87ed8c6c7f8fc3da0da6a60e33ca791"
+libc = "glibc"
+os = "linux"
+
+    [[KAShim.download]]
+    sha256 = "d90756b8ca4e46f121047a7c5670f2cf5c8b25f672cdf75e141af4d3e4e955cd"
+    url = "https://github.com/JuliaBinaryWrappers/KAShim_jll.jl/releases/download/KAShim-v0.1.0+0/KAShim.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[KAShim]]
+arch = "x86_64"
+git-tree-sha1 = "9e9c9e1266e5b85488b10d0713ba38349cbe8211"
+libc = "glibc"
+os = "linux"
+
+    [[KAShim.download]]
+    sha256 = "73c82e166db6e6d0c6285664a6d97911e60145e41068650afc24425f3f1b3676"
+    url = "https://github.com/JuliaBinaryWrappers/KAShim_jll.jl/releases/download/KAShim-v0.1.0+0/KAShim.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[KAShim]]
+arch = "powerpc64le"
+git-tree-sha1 = "5eca66cf1ac747140acf8f24ed27702eb3ac59f7"
+libc = "glibc"
+os = "linux"
+
+    [[KAShim.download]]
+    sha256 = "2d281e432e0313aee016ece0b4be3f04207b43ffab9d1c6138a40c23c066a6f3"
+    url = "https://github.com/JuliaBinaryWrappers/KAShim_jll.jl/releases/download/KAShim-v0.1.0+0/KAShim.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[KAShim]]
+arch = "x86_64"
+git-tree-sha1 = "b22b92ac04df5a00948a5b2e2b2bdd93ea9e6d9b"
+os = "macos"
+
+    [[KAShim.download]]
+    sha256 = "88b9a3d5700915ba9ad496f0c1dcd098a9730635c40db5ce7a88caada0ba0d5d"
+    url = "https://github.com/JuliaBinaryWrappers/KAShim_jll.jl/releases/download/KAShim-v0.1.0+0/KAShim.v0.1.0.x86_64-apple-darwin14.tar.gz"
+[[KAShim]]
+arch = "x86_64"
+git-tree-sha1 = "7658f1aba8d66a7d1aa3f902b721524a92751ce1"
+os = "freebsd"
+
+    [[KAShim.download]]
+    sha256 = "0bc998e3805281578819f61f8066581783d501076873313d64272a403292c92e"
+    url = "https://github.com/JuliaBinaryWrappers/KAShim_jll.jl/releases/download/KAShim-v0.1.0+0/KAShim.v0.1.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[KAShim]]
+arch = "i686"
+git-tree-sha1 = "ce69c13da2d61d84daae3248a2923cc24fd6048e"
+libc = "musl"
+os = "linux"
+
+    [[KAShim.download]]
+    sha256 = "c4aeb93f2df831d8c9537deac98d386562cf2948c0d8a89d062e7944b469d2b6"
+    url = "https://github.com/JuliaBinaryWrappers/KAShim_jll.jl/releases/download/KAShim-v0.1.0+0/KAShim.v0.1.0.i686-linux-musl.tar.gz"
+[[KAShim]]
+arch = "armv7l"
+git-tree-sha1 = "0fe3942045ee542b28f83c6ec4bf4936e61f7305"
+libc = "musl"
+os = "linux"
+
+    [[KAShim.download]]
+    sha256 = "b96cfa0472ac83709431278f7ef1ac72bd42872ac0155a874ea4c04f31161391"
+    url = "https://github.com/JuliaBinaryWrappers/KAShim_jll.jl/releases/download/KAShim-v0.1.0+0/KAShim.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[KAShim]]
+arch = "x86_64"
+git-tree-sha1 = "8eaa6c2624cffedcb4672e5258348a4fbecee46e"
+os = "windows"
+
+    [[KAShim.download]]
+    sha256 = "31674beeeb468866c84ea7c781f3db887c275f6f1287de5dc9991ecd8f3875c0"
+    url = "https://github.com/JuliaBinaryWrappers/KAShim_jll.jl/releases/download/KAShim-v0.1.0+0/KAShim.v0.1.0.x86_64-w64-mingw32.tar.gz"

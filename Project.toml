@@ -1,0 +1,11 @@
+name = "KAShim_jll"
+uuid = "652de3ec-ffb6-5c91-88b5-9e9ede6ab7e4"
+version = "0.1.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+LibUV_jll = "183b4373-6708-53ba-ad28-60e28bb38547"
+
+[compat]
+julia = "1.0"
